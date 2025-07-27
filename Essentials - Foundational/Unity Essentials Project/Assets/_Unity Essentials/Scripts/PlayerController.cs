@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody rb; // Reference to player's Rigidbody.
 
+    public float jumpForce = 5.0f; // Set player's jump force.
+
     // Start is called before the first frame update
     private void Start()
     {
@@ -17,7 +19,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetButtonDown("Jump"))
+        {
+            // Apply a force to the Rigidbody to make the player jump.
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
     }
 
 
