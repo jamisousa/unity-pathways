@@ -22,7 +22,9 @@
 - Player Control: installation, vehicle movement programming, collisions / rigidbodies, project management & teamwork
 - Basic Gameplay: player positioning, spawn scripts, collision decisions, primitives
 - Sounds and Effects: jump force and gravity manipulation, particles and sound effects
+- Gameplay Mechanics: powerups, countdowns, gravity manipulation, camera following
 - User Interface: score scripts, titles and menus, score displays
 - Publishing: WebGL
 - Scene Flow and Data: version control, data persistence
 - Object-Oriented Principles
+
