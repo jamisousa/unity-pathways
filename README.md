@@ -28,4 +28,16 @@
 - Scene Flow and Data: version control, data persistence
 - Object-Oriented Principles
 
+<br><br>
+
+### 📸
+<img height="200" alt="Image" src="https://github.com/user-attachments/assets/0491a70f-3527-4060-a474-98509b299392" />
+<img height="170" alt="Image" src="https://github.com/user-attachments/assets/5c0fa22e-ace8-4cea-911d-63e3c1ba1da4" />
+
+<p></p>
+
+<img height="200" alt="Image" src="https://github.com/user-attachments/assets/b11615d3-4819-4bad-bcf6-9e3daf4ccb7b" />
+<img height="200" alt="Image" src="https://github.com/user-attachments/assets/6580059a-e70c-4cc9-87c4-39d8a2e1aadd" />
+
+
 
