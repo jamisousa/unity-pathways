@@ -11,7 +11,7 @@
 - Audio: immersive soundscapes
 - Programming: player, movement & collectible scripts
 - 2D: project setup, animated sprites
-- Publishing> WebGL
+- Publishing: WebGL
 
 <br><br>
 
@@ -27,4 +27,5 @@
 - Publishing: WebGL
 - Scene Flow and Data: version control, data persistence
 - Object-Oriented Principles
+
 
